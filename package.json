@@ -1,0 +1,24 @@
+{
+  "name": "kraken_api_node",
+  "version": "0.0.1",
+  "description": "A node API wrapper for Kraken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsgg/kraken_api_node.git"
+  },
+  "keywords": [
+    "kraken",
+    "crypto",
+    "api"
+  ],
+  "author": "Ganesh Gunasegaran <me@itsgg.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsgg/kraken_api_node/issues"
+  },
+  "homepage": "https://github.com/itsgg/kraken_api_node#readme"
+}
